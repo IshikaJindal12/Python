@@ -1,6 +1,6 @@
 res=str(input("Enter a string: "))
 txt=res[::-1]
 if res==txt:
-    print("palindrome")
+    print("string is palindrome")
 else:
-    print("Not")
+    print("string is Not palindrome")
